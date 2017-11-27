@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1511048361 source:c:\users\andres\documents\utn\fr avellaneda\programación i\drive\modelo_2p_v3\modelo_2p_v3\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511048596 c:\users\andres\documents\utn\fr avellaneda\programación i\drive\modelo_2p_v3\modelo_2p_v3\arraylist.h
+
+1511568752 source:c:\users\andres\documents\utn\fr avellaneda\programación i\drive\modelo_2p_v3\modelo_2p_v3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+	"lista.h"
+
+1511476351 c:\users\andres\documents\utn\fr avellaneda\programación i\drive\modelo_2p_v3\modelo_2p_v3\persona.h
+
+1511567907 c:\users\andres\documents\utn\fr avellaneda\programación i\drive\modelo_2p_v3\modelo_2p_v3\lista.h
+	"ArrayList.h"
+
+1511567907 source:c:\users\andres\documents\utn\fr avellaneda\programación i\drive\modelo_2p_v3\modelo_2p_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"lista.h"
+	"ArrayList.h"
+
+1511476011 source:c:\users\andres\documents\utn\fr avellaneda\programación i\drive\modelo_2p_v3\modelo_2p_v3\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+
+1511550890 source:c:\users\facu\desktop\modelo_p1_laboratorio_1-master\modelo_2p_v3\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511550890 c:\users\facu\desktop\modelo_p1_laboratorio_1-master\modelo_2p_v3\arraylist.h
+
+1511550890 source:c:\users\facu\desktop\modelo_p1_laboratorio_1-master\modelo_2p_v3\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+	"lista.h"
+
+1511550890 c:\users\facu\desktop\modelo_p1_laboratorio_1-master\modelo_2p_v3\persona.h
+
+1511550890 c:\users\facu\desktop\modelo_p1_laboratorio_1-master\modelo_2p_v3\lista.h
+	"ArrayList.h"
+
+1511550890 source:c:\users\facu\desktop\modelo_p1_laboratorio_1-master\modelo_2p_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"persona.h"
+	"lista.h"
+	"ArrayList.h"
+
+1511550890 source:c:\users\facu\desktop\modelo_p1_laboratorio_1-master\modelo_2p_v3\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"persona.h"
+
